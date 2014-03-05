@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="15" tileheight="15" backgroundcolor="#5500ff">
+ <tileset firstgid="1" name="tiles" tilewidth="15" tileheight="15">
+  <image source="../../../../xampp/htdocs/game/public_html/data/img/tiles.png" width="80" height="224"/>
+ </tileset>
+ <tileset firstgid="71" name="paddle" tilewidth="15" tileheight="15">
+  <image source="../../../../xampp/htdocs/game/public_html/data/img/paddle.png" width="48" height="16"/>
+ </tileset>
+ <tileset firstgid="74" name="brick" tilewidth="15" tileheight="15">
+  <image source="../../../../xampp/htdocs/game/public_html/data/img/brick.png" width="32" height="16"/>
+ </tileset>
+ <tileset firstgid="76" name="ball" tilewidth="15" tileheight="15">
+  <image source="../../../../xampp/htdocs/game/public_html/data/img/ball.png" width="16" height="16"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl0sKwCAMRN3rvfq9/3maTUHEmImtjdAEBjczeaBBMYYQEikqlRhJGW4dVV/zJL4ldycdA1eOW1bu1xaXRfe5zNf6IR4tV+qj9WrnCmEjnp55bvVF98S5/UyNx3qeb73BRDIz3lfIPctxpMxf51maK7Qf6p3p3Xeuc2fgngbchbSStgfc/P8yqmr/KIvzvQCnlSUn
+  </data>
+ </layer>
+</map>
