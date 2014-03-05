@@ -85,7 +85,7 @@ game.PaddleEntity = me.ObjectEntity.extend({
                   
          this.type = "brick";
          this.colliable = true; 
-   },        
+   },
         update:function () {
     
         },
